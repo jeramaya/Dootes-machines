@@ -11,6 +11,6 @@ To add a screenshot, please replace `screenshot.png` with
 your own screenshot.
 -->
 
-## <your-project-name>
+## Doot Machine
 
-a brief description of your project goes here
+Using the micro:bit, multiple songs have been recreated in the micro:bit for it to play. Its like a music player, just with only a select amount of songs (which are snipets, not the full verision).
