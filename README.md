@@ -1,7 +1,7 @@
 # SoarCS 2019!
 
 <!-- Note, the line below this one is what links to your screenshot, **DO NOT REMOVE** -->
-![my_screenshot](./screenshot.jpg)
+![my_screenshot](./garbage.jpg)
 
 <!--
 In this file, you should write a brief description of what your
@@ -13,4 +13,4 @@ your own screenshot.
 
 ## <your-project-name>
 
-a brief description of your project goes here
+it plays music thats pretty much it but it was fun to make.
